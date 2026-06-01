@@ -1,0 +1,2 @@
+Hi, I am Tornike Khutsishvili, a Front-End Developer (Angular/React). I am currently learning
+Python, because I want to expand my backend knowledge and become a more complete developer.
