@@ -1,1 +1,1 @@
-print("salami xalxno!!!")
+print("salami xalxno!!")
