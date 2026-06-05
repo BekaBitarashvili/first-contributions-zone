@@ -81,4 +81,4 @@ for x in range (1, len(string)+1):
 # git pull origin main
 # git add .
 # git commit -m"task 1_6"
-# git push origin shota
+# git push origin shota_task_1_to_6
